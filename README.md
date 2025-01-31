@@ -11,7 +11,7 @@
 - [moduleButtonLight](https://github.com/SmithLEDs/wb-buttonLight) - Модуль для управления светом по кнопкам и датчикам движения
 
 ### Шаблоны для сторонних устройств
-- [config-Lovato-RGK800](https://github.com/SmithLEDs/template_LovatoRGK800.git) - Шаблон для контроллера ДГУ Lovato RGK800
+- [config-Lovato-RGK800](https://github.com/SmithLEDs/wb-template_LovatoRGK800.git) - Шаблон для контроллера ДГУ Lovato RGK800
 
 ### Установка модулей в контроллер
 
